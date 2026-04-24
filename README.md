@@ -32,6 +32,12 @@ ecommerce_llm_project/
 ├── optimization/
 │   └── inference_optimization.py  # ⭐ 推理性能优化
 │
+├── training/
+│   ├── sft_with_llamafactory.py
+│   ├── merge_peft_adapter.py
+│   ├── dpo_traning.py
+│   └── orpo_traning.py  # ⭐ 数据质量分析
+│
 ├── evaluation/
 │   └── evaluation_system.py # ⭐ 自动化评估体系
 │
@@ -40,7 +46,6 @@ ecommerce_llm_project/
 │
 ├── configs/               # 训练配置
 ├── scripts/               # 辅助脚本
-├── generate_ecommerce_dataset.py  # 数据生成器
 └── ecommerce_dpo_training_pipeline.ipynb  # 训练 Pipeline
 ```
 
