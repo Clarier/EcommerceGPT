@@ -46,7 +46,7 @@ ecommerce_llm_project/
 │
 ├── configs/               # 训练配置
 ├── scripts/               # 辅助脚本
-└── ecommerce_dpo_training_pipeline.ipynb  # 训练 Pipeline
+└── financial_dpo_training_pipeline.ipynb  # 训练 Pipeline
 ```
 
 ## 🚀 快速开始
