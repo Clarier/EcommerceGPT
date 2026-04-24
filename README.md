@@ -36,7 +36,7 @@ ecommerce_llm_project/
 │   └── auto_evaluation.py # ⭐ 自动化评估体系
 │
 ├── analysis/
-│   └── data_quality_analysis.py  # ⭐ 数据质量分析
+│   └── data_quality_pipeline.py  # ⭐ 数据质量分析
 │
 ├── configs/               # 训练配置
 ├── scripts/               # 辅助脚本
